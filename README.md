@@ -1,4 +1,4 @@
-# Persiana Automática
+# Control Iluminación Automático
 
 Control domótico de la subida y bajada de una persiana dependiendo de la cantidad de luz y de la presencia.
 
