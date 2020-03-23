@@ -1,0 +1,22 @@
+# Sensores
+
+## Sensor de presencia: HC-SR501
+Sensor PIR Detección de movimiento de cuerpo infrarrojo piroeléctrico Bobury.
+
+El sensor PIR detecta el movimiento midiendo los cambios en los niveles de infrarrojos (calor)
+que emiten los objetos que lo rodean. Cuando se detecta el movimiento del sensor PIR, 
+emite una señal de alto en su pin de salida. Rango de detección de 7 metros y ángulo operativo de 120º.
+
+## Sensor Luminoso: TCRT5000 A/D
+
+Módulo Sensor Siguelíneas IR infrarrojos TCRT5000 A/D con doble salida analógica y digital.
+Este módulo utiliza el sensor IR TCRT5000 y proporciona una salida digital con nivel de deteción
+regulado por potenciómetro y una salida analógica directa que te permitirá detectar el nivel de intensidad
+de la luz reflejada por una superficie. Utiliza un par de estos módulos para seguir líneas o detectar el borde 
+de un tablero o una pared mediante su sensor infrarrojo TCRT5000
+Alimentación: 3.3 – 5V
+
+# Actuador
+
+##Servomotor: Micro servo SG90
+
