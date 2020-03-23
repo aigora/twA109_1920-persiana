@@ -1,11 +1,14 @@
-# Título del trabajo
+# Persiana Automática
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Control domótico de la subida y bajada de una persiana dependiendo de la cantidad de luz y de la presencia.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Samuel Rey Álvarez
+Github: samu796
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Controlar el servomotor de subida y bajada de la persiana.
+Detector de presencia para que empiece a funcionar el proyecto.
+Detección de luminosidad para regular tanto la subida/bajada de la persiana y la cantidad de luz en la habitación.
